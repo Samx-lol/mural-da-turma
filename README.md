@@ -4,3 +4,6 @@ Bem vindos ao nosso mural
 # avisos
 Nem um aviso cadastrado ainda
 # desenvolvedores 
+zezaodosal667
+# Revisores
+Samucagg67
